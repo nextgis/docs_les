@@ -5,4 +5,4 @@
 .. toctree::
    :maxdepth: 2
 
-   # create lesoseki and so on
+   user_lesoseki_create
